@@ -24,14 +24,14 @@ The JobCafe Automated UI Tests project is designed to ensure that key components
 Ensure **Maven** and **JDK 13+** are installed.
 **Chrome Browser**: Installed on your machine.
 
-### 2️⃣ Clone Repository
-```sh
-git clone https://github.com/YOUR_USERNAME/JobCafeTestProject.git
+### 2️⃣ Clone Repository 
+git clone https://github.com/IanaFitzgerald/job-cafe.git
 cd JobCafeTestProject
 
 ### 3️⃣ Run Tests
 Execute the following command to run the tests:
 mvn test
+
 
 
 
