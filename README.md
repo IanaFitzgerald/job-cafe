@@ -1,5 +1,5 @@
 # JobCafe Selenium UI Test Automation
-This project is an automated UI test suite for the [JobCafe website](http://167.99.178.249:3000/) . It uses Selenium WebDriver with JUnit 5 to validate key functionalities such as navigation, form interactions, search features, and UI element visibility.
+This project is an automated UI test suite for the [JobCafe website](http://167.99.178.249:3000/) . 
 ![mainpage](images/Screenshot1.png)
 
 ## 📌 Project Overview
