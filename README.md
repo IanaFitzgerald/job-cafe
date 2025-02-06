@@ -18,6 +18,9 @@ The JobCafe Automated UI Tests project is designed to ensure that key components
 - **WebDriverManager**: For managing WebDriver binaries.
 - **Maven**: For dependency management and project build.
 
+## 📂 Project Structure
+![structure](images/Screenshot3.png)
+
 
 ## 🚀 How to Run Tests
 ### 1️⃣ Install Dependencies
