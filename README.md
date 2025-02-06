@@ -9,6 +9,7 @@ The JobCafe Automated UI Tests project is designed to ensure that key components
 - **Navigation**: Tests navigation to the "About Us" page.
 - **Search Functionality**: Validates the search functionality for jobs by position, location, and company.
 - **Form Interactions**: Tests form behaviors, including reset functionality and error messages for invalid inputs.
+![mainpage](images/Screenshot4.png)
 ![mainpage](images/Screenshot2.png)
 
 ## 🛠️ Technologies Used
