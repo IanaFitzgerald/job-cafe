@@ -1,6 +1,6 @@
 # JobCafe Selenium UI Test Automation
-[JobCafe website](http://167.99.178.249:3000/) . 
 ![mainpage](images/Screenshot1.png)
+[JobCafe website](http://167.99.178.249:3000/)
 
 ## 📌 Project Overview
 The JobCafe Automated UI Tests project is designed to ensure that key components of the JobCafe website work as expected. The tests cover the following functionalities:
