@@ -24,28 +24,27 @@ The JobCafe Automated UI Tests project is designed to ensure that key components
 
 
 ## 🚀 How to Run Tests
-### Install Dependencies
-**Maven** 
-**JDK 13+**
-**Chrome Browser**
+### Install Dependencies:
++ **Maven** 
++ **JDK 13+**
++ **Chrome Browser**
 
-```bash
-1. Clone the Repository
+✅ Clone the Repository
+```
 git clone https://github.com/IanaFitzgerald/job-cafe.git
+```
 
-2. Navigate to the Project Directory
+✅ Navigate to the Project Directory
+ ```
 cd your-repository
+```
 
-3. Build the Project Using Maven
+✅ Build the Project Using Maven
+```
 mvn clean install
+```
 
-4. Run the Tests
+✅ Run the Tests
+```
 mvn test
-
-
-
-
-
-
-
-
+```
