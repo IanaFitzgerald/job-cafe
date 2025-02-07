@@ -34,11 +34,6 @@ The JobCafe Automated UI Tests project is designed to ensure that key components
 git clone https://github.com/IanaFitzgerald/job-cafe.git
 ```
 
-✅ Navigate to the Project Directory
- ```
-cd your-repository
-```
-
 ✅ Build the Project Using Maven
 ```
 mvn clean install
